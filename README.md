@@ -2,4 +2,4 @@
 username: hey@epam.com
 password: epam
 
-js included
+js file is included
